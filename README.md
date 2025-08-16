@@ -1,4 +1,4 @@
-# ShopNest Store – Power BI Capstone Project
+# Capstone Project on Power BI
 
 ## 📊 Project Overview
 This Power BI project analyzes sales, customer behavior, and operational trends for **ShopNest Store**, providing actionable insights for business decision-making.
